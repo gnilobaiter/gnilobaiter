@@ -54,7 +54,6 @@
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=gnilobaiter&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" alt="GitHub Stats" /><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnilobaiter&theme=transparent&hide_border=false&cache_seconds=1800" alt="GitHub Streak" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnilobaiter&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" alt="Top Languages" /><br/>
 
 ---
 
