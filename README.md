@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/Qt-%2321A85C.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Obsidian-%235a5a5a.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 
 ### Operating Systems
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
