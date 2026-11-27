@@ -55,7 +55,7 @@ Since **2025**, I've used **OpenAI Codex** as an engineering tool for implementa
 <img src="assets/badges/pinia.svg" alt="Pinia" />
 <img src="assets/badges/nuxt-ui.svg" alt="Nuxt UI" />
 <img src="assets/badges/wordpress.svg" alt="WordPress" />
-<img src="assets/badges/shadcn-ui.svg" alt="shadcn/ui" />
+<img src="assets/badges/shadcn-ui.svg" alt="Shadcn" />
 
 ### Backend & Desktop
 
