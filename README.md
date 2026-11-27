@@ -13,7 +13,7 @@
 
 I've been building software **since 2018**, working across backend systems, web applications, automation, desktop utilities, and infrastructure. I care about architecture, maintainability, security, and how software behaves in production, not just whether it runs on my machine.
 
-Since **2025**, I've used **Claude Code** and **OpenAI Codex** as engineering tools for implementation, investigation, testing, and automation. I still design the systems, validate the decisions, review the code, and own the results. **AI-assisted engineering ≠ vibe coding.**
+Since **2025**, I've used **OpenAI Codex** as engineering tools for implementation, investigation, testing, and automation. I still design the systems, validate the decisions, review the code, and own the results. **AI-assisted engineering ≠ vibe coding.**
 
 ### 🔧 What I Build
 
@@ -21,7 +21,7 @@ Since **2025**, I've used **Claude Code** and **OpenAI Codex** as engineering to
 - **Backend & CRM platforms:** APIs, authentication, business logic, integrations, real-time systems, and database-driven workflows.
 - **Automation & integrations:** Telegram bots, Telethon, aiogram, parsers, scheduled workers, Discord services, and browser automation with Playwright.
 - **Infrastructure & delivery:** Linux servers, Nginx, systemd, MySQL, CI/CD, Cloudflare, Windows utilities, backups, and production operations.
-- **AI & developer workflows:** Claude Code, Codex, VS Code, MCP, agent skills, local inference / ComfyUI, and tooling around testing and code quality.
+- **AI & developer workflows:** Codex, VS Code, MCP, agent skills, local inference / ComfyUI, and tooling around testing and code quality.
 
 ---
 
@@ -52,6 +52,11 @@ Since **2025**, I've used **Claude Code** and **OpenAI Codex** as engineering to
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
 <img src="https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white" alt="Preact" />
+<img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia" />
+<img src="https://img.shields.io/badge/Nuxt%20UI-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt UI" />
+<img src="https://img.shields.io/badge/VueUse-41B883?style=for-the-badge&logo=vueuse&logoColor=white" alt="VueUse" />
+<img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
+<img src="https://img.shields.io/badge/Iconify-1769AA?style=for-the-badge&logo=iconify&logoColor=white" alt="Iconify" />
 
 ### Backend & Desktop
 
@@ -92,12 +97,15 @@ Since **2025**, I've used **Claude Code** and **OpenAI Codex** as engineering to
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Oxlint-5C33CF?style=for-the-badge&logo=oxc&logoColor=white" alt="Oxlint" />
 
 ### AI Agents & Developer Tools
 
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI%20Codex-121212?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/Agent%20Skills-374151?style=for-the-badge&logo=agentskills&logoColor=white" alt="Agent Skills" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 
 ### Machine Learning & Data
 
