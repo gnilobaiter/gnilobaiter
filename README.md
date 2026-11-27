@@ -2,8 +2,8 @@
 
 # gnilobaiter
 
-<img src="https://img.shields.io/badge/Software%20Developer-145A68?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer" />
-<img src="https://img.shields.io/badge/UX%20Engineering-B56543?style=for-the-badge&logo=figma&logoColor=white" alt="UX Engineering" />
+<img src="assets/badges/software-developer.svg" alt="Software Developer" />
+<img src="assets/badges/ux-engineering.svg" alt="UX Engineering" />
 
 **Software development since 2018** · **AI-assisted engineering since 2025**
 
@@ -31,108 +31,105 @@ Since **2025**, I've used **OpenAI Codex** as engineering tools for implementati
 
 ### Programming Languages
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" alt="Zig" />
+<img src="assets/badges/python.svg" alt="Python" />
+<img src="assets/badges/javascript.svg" alt="JavaScript" />
+<img src="assets/badges/typescript.svg" alt="TypeScript" />
+<img src="assets/badges/csharp.svg" alt="C#" />
+<img src="assets/badges/c.svg" alt="C" />
+<img src="assets/badges/lua.svg" alt="Lua" />
+<img src="assets/badges/php.svg" alt="PHP" />
+<img src="assets/badges/zig.svg" alt="Zig" />
 
 ### Frontend & Web
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-<img src="https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white" alt="Preact" />
-<img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia" />
-<img src="https://img.shields.io/badge/Nuxt%20UI-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt UI" />
-<img src="https://img.shields.io/badge/VueUse-41B883?style=for-the-badge&logo=vueuse&logoColor=white" alt="VueUse" />
-<img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
-<img src="https://img.shields.io/badge/Iconify-1769AA?style=for-the-badge&logo=iconify&logoColor=white" alt="Iconify" />
+<img src="assets/badges/html5.svg" alt="HTML5" />
+<img src="assets/badges/css.svg" alt="CSS" />
+<img src="assets/badges/react.svg" alt="React" />
+<img src="assets/badges/next-js.svg" alt="Next.js" />
+<img src="assets/badges/tailwind-css.svg" alt="Tailwind CSS" />
+<img src="assets/badges/vue-js.svg" alt="Vue.js" />
+<img src="assets/badges/nuxt.svg" alt="Nuxt" />
+<img src="assets/badges/vite.svg" alt="Vite" />
+<img src="assets/badges/astro.svg" alt="Astro" />
+<img src="assets/badges/preact.svg" alt="Preact" />
+<img src="assets/badges/pinia.svg" alt="Pinia" />
+<img src="assets/badges/nuxt-ui.svg" alt="Nuxt UI" />
 
 ### Backend & Desktop
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-<img src="https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white" alt="AIOHTTP" />
-<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<img src="assets/badges/node-js.svg" alt="Node.js" />
+<img src="assets/badges/fastify.svg" alt="Fastify" />
+<img src="assets/badges/fastapi.svg" alt="FastAPI" />
+
+<img src="assets/badges/aiohttp.svg" alt="AIOHTTP" />
+
+<img src="assets/badges/flask.svg" alt="Flask" />
+<img src="assets/badges/electron.svg" alt="Electron" />
+<img src="assets/badges/qt.svg" alt="Qt" />
+<img src="assets/badges/telegram.svg" alt="Telegram" />
 
 ### Databases & ORM
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/Knex.js-D26B40?style=for-the-badge&logo=knexdotjs&logoColor=white" alt="Knex.js" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="assets/badges/mysql.svg" alt="MySQL" />
+<img src="assets/badges/sqlite.svg" alt="SQLite" />
+<img src="assets/badges/sqlalchemy.svg" alt="SQLAlchemy" />
+<img src="assets/badges/knex-js.svg" alt="Knex.js" />
+<img src="assets/badges/prisma.svg" alt="Prisma" />
 
 ### DevOps & Infrastructure
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="assets/badges/git.svg" alt="Git" />
+<img src="assets/badges/github-actions.svg" alt="GitHub Actions" />
+<img src="assets/badges/nginx.svg" alt="Nginx" />
+<img src="assets/badges/cloudflare.svg" alt="Cloudflare" />
+<img src="assets/badges/openwrt.svg" alt="OpenWrt" />
+<img src="assets/badges/bash.svg" alt="Bash" />
 
 ### Testing & Quality
 
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
-<img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=121212" alt="Ruff" />
-<img src="https://img.shields.io/badge/Knip-E6514A?style=for-the-badge&logo=knip&logoColor=white" alt="Knip" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Oxlint-5C33CF?style=for-the-badge&logo=oxc&logoColor=white" alt="Oxlint" />
+<img src="assets/badges/vitest.svg" alt="Vitest" />
+<img src="assets/badges/pytest.svg" alt="pytest" />
+<img src="assets/badges/ruff.svg" alt="Ruff" />
+<img src="assets/badges/knip.svg" alt="Knip" />
+<img src="assets/badges/eslint.svg" alt="ESLint" />
+<img src="assets/badges/prettier.svg" alt="Prettier" />
+<img src="assets/badges/selenium.svg" alt="Selenium" />
+<img src="assets/badges/playwright.svg" alt="Playwright" />
+<img src="assets/badges/oxlint.svg" alt="Oxlint" />
 
 ### AI Agents & Developer Tools
 
-<img src="https://img.shields.io/badge/OpenAI%20Codex-121212?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/Agent%20Skills-374151?style=for-the-badge&logo=agentskills&logoColor=white" alt="Agent Skills" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+<img src="assets/badges/openai-codex.svg" alt="OpenAI Codex" />
+<img src="assets/badges/mcp.svg" alt="MCP" />
+<img src="assets/badges/agent-skills.svg" alt="Agent Skills" />
+<img src="assets/badges/visual-studio-code.svg" alt="Visual Studio Code" />
 
 ### Machine Learning & Data
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=111111" alt="SciPy" />
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+<img src="assets/badges/pytorch.svg" alt="PyTorch" />
+<img src="assets/badges/tensorflow.svg" alt="TensorFlow" />
+<img src="assets/badges/keras.svg" alt="Keras" />
+<img src="assets/badges/numpy.svg" alt="NumPy" />
+<img src="assets/badges/pandas.svg" alt="pandas" />
+<img src="assets/badges/scipy.svg" alt="SciPy" />
+<img src="assets/badges/scikit-learn.svg" alt="scikit-learn" />
+<img src="assets/badges/opencv.svg" alt="OpenCV" />
+<img src="assets/badges/onnx.svg" alt="ONNX" />
+<img src="assets/badges/ffmpeg.svg" alt="FFmpeg" />
+<img src="assets/badges/cuda.svg" alt="CUDA" />
+<img src="assets/badges/plotly.svg" alt="Plotly" />
+<img src="assets/badges/streamlit.svg" alt="Streamlit" />
+<img src="assets/badges/gradio.svg" alt="Gradio" />
 
 ### Platforms & Other Tools
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+<img src="assets/badges/linux.svg" alt="Linux" />
+<img src="assets/badges/ubuntu.svg" alt="Ubuntu" />
+<img src="assets/badges/debian.svg" alt="Debian" />
+<img src="assets/badges/kali-linux.svg" alt="Kali Linux" />
+<img src="assets/badges/ios.svg" alt="iOS" />
+<img src="assets/badges/godot.svg" alt="Godot" />
+<img src="assets/badges/arduino.svg" alt="Arduino" />
+<img src="assets/badges/obsidian.svg" alt="Obsidian" />
 
 </div>
