@@ -38,6 +38,7 @@ Since **2025**, I've used **OpenAI Codex** as an engineering tool for implementa
 <img src="assets/badges/csharp.svg" alt="C#" />
 <img src="assets/badges/java.svg" alt="Java" />
 <img src="assets/badges/php.svg" alt="PHP" />
+<img src="assets/badges/rust.svg" alt="Rust" />
 <img src="assets/badges/zig.svg" alt="Zig" />
 
 ### Frontend & Web
